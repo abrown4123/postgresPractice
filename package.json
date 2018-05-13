@@ -1,0 +1,20 @@
+{
+  "name": "postgrespractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrown4123/postgresPractice.git"
+  },
+  "author": "Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrown4123/postgresPractice/issues"
+  },
+  "homepage": "https://github.com/abrown4123/postgresPractice#readme"
+}
